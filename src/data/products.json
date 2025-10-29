@@ -1,0 +1,433 @@
+[
+  {
+    "id": "deep-sleep",
+    "title": "Deep Sleep",
+    "slug": "deep-sleep",
+    "series": "Sleep",
+    "scent_composition": ["Lavender", "Vanilla", "Cedarwood"],
+    "description": "Drift into peaceful slumber with calming lavender and warm vanilla notes.",
+    "full_description": "Deep Sleep combines the time-honored calming properties of pure lavender with the comforting warmth of vanilla and grounding cedarwood. Applied before bedtime, this patch helps promote relaxation and supports your natural sleep cycle. The gentle aroma creates a soothing environment that helps quiet the mind and prepare your body for restful sleep.",
+    "variants": [
+      {
+        "id": "deep-sleep-single",
+        "name": "Single Patch",
+        "price": 80,
+        "sku": "LP-DS-1",
+        "inventory": 500
+      },
+      {
+        "id": "deep-sleep-7pack",
+        "name": "Pack of 7",
+        "price": 499,
+        "sku": "LP-DS-7",
+        "inventory": 300
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg",
+      "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg",
+      "https://images.pexels.com/photos/6039247/pexels-photo-6039247.jpeg"
+    ],
+    "glb_model": "deep_sleep_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Lavender essential oil (40%)",
+      "Vanilla extract (30%)",
+      "Cedarwood oil (20%)",
+      "Natural carrier blend (10%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["sleep", "lavender", "calm", "bestseller"],
+    "rating": 4.8,
+    "reviews_count": 347,
+    "featured": true
+  },
+  {
+    "id": "midnight-calm",
+    "title": "Midnight Calm",
+    "slug": "midnight-calm",
+    "series": "Sleep",
+    "scent_composition": ["Chamomile", "Ylang Ylang", "Bergamot"],
+    "description": "Embrace tranquility with the soothing blend of chamomile and exotic florals.",
+    "full_description": "Midnight Calm offers a sophisticated blend of gentle chamomile, exotic ylang ylang, and uplifting bergamot to create the perfect nighttime ritual. This aromatic combination helps ease tension and promotes a sense of peaceful relaxation. The soft, floral notes work harmoniously to help you unwind from the day's stresses.",
+    "variants": [
+      {
+        "id": "midnight-calm-single",
+        "name": "Single Patch",
+        "price": 80,
+        "sku": "LP-MC-1",
+        "inventory": 450
+      },
+      {
+        "id": "midnight-calm-7pack",
+        "name": "Pack of 7",
+        "price": 499,
+        "sku": "LP-MC-7",
+        "inventory": 280
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/3771045/pexels-photo-3771045.jpeg",
+      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg",
+      "https://images.pexels.com/photos/5793953/pexels-photo-5793953.jpeg"
+    ],
+    "glb_model": "midnight_calm_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Chamomile extract (35%)",
+      "Ylang ylang oil (30%)",
+      "Bergamot oil (25%)",
+      "Natural carrier blend (10%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["sleep", "chamomile", "floral"],
+    "rating": 4.7,
+    "reviews_count": 234
+  },
+  {
+    "id": "moon-kiss",
+    "title": "Moon Kiss",
+    "slug": "moon-kiss",
+    "series": "Sleep",
+    "scent_composition": ["Jasmine", "Sandalwood"],
+    "description": "Experience luxurious rest with the enchanting aroma of jasmine and sandalwood.",
+    "full_description": "Moon Kiss elevates your sleep routine with the opulent combination of night-blooming jasmine and rich sandalwood. This premium blend creates an atmosphere of luxury and deep relaxation. The sweet, exotic jasmine paired with earthy sandalwood helps create the perfect environment for restorative sleep.",
+    "variants": [
+      {
+        "id": "moon-kiss-single",
+        "name": "Single Patch",
+        "price": 90,
+        "sku": "LP-MK-1",
+        "inventory": 380
+      },
+      {
+        "id": "moon-kiss-7pack",
+        "name": "Pack of 7",
+        "price": 549,
+        "sku": "LP-MK-7",
+        "inventory": 220
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/4498318/pexels-photo-4498318.jpeg",
+      "https://images.pexels.com/photos/5792471/pexels-photo-5792471.jpeg",
+      "https://images.pexels.com/photos/3771640/pexels-photo-3771640.jpeg"
+    ],
+    "glb_model": "moon_kiss_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Jasmine absolute (45%)",
+      "Sandalwood oil (40%)",
+      "Natural carrier blend (15%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["sleep", "jasmine", "luxury", "premium"],
+    "rating": 4.9,
+    "reviews_count": 189
+  },
+  {
+    "id": "study-mode",
+    "title": "Study Mode",
+    "slug": "study-mode",
+    "series": "Focus",
+    "scent_composition": ["Peppermint", "Rosemary"],
+    "description": "Sharpen your focus with invigorating peppermint and clarifying rosemary.",
+    "full_description": "Study Mode harnesses the mental clarity benefits of peppermint and rosemary to help support concentration and alertness. The crisp, refreshing aroma helps create an optimal environment for focused work, study sessions, or creative tasks. This energizing blend helps promote mental sharpness without overstimulation.",
+    "variants": [
+      {
+        "id": "study-mode-single",
+        "name": "Single Patch",
+        "price": 80,
+        "sku": "LP-SM-1",
+        "inventory": 520
+      },
+      {
+        "id": "study-mode-7pack",
+        "name": "Pack of 7",
+        "price": 499,
+        "sku": "LP-SM-7",
+        "inventory": 350
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg",
+      "https://images.pexels.com/photos/5726794/pexels-photo-5726794.jpeg",
+      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg"
+    ],
+    "glb_model": "study_mode_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Peppermint oil (50%)",
+      "Rosemary oil (40%)",
+      "Natural carrier blend (10%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["focus", "peppermint", "study", "bestseller"],
+    "rating": 4.6,
+    "reviews_count": 412,
+    "featured": true
+  },
+  {
+    "id": "morning-rise",
+    "title": "Morning Rise",
+    "slug": "morning-rise",
+    "series": "Focus",
+    "scent_composition": ["Orange", "Lemon", "Eucalyptus"],
+    "description": "Start your day energized with bright citrus and refreshing eucalyptus.",
+    "full_description": "Morning Rise delivers an uplifting burst of sunshine with its vibrant citrus blend. Sweet orange and zesty lemon combine with cooling eucalyptus to help awaken your senses and support morning alertness. This refreshing combination helps you feel more present and ready to embrace the day ahead.",
+    "variants": [
+      {
+        "id": "morning-rise-single",
+        "name": "Single Patch",
+        "price": 80,
+        "sku": "LP-MR-1",
+        "inventory": 490
+      },
+      {
+        "id": "morning-rise-7pack",
+        "name": "Pack of 7",
+        "price": 499,
+        "sku": "LP-MR-7",
+        "inventory": 310
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/1339585/pexels-photo-1339585.jpeg",
+      "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg",
+      "https://images.pexels.com/photos/5726707/pexels-photo-5726707.jpeg"
+    ],
+    "glb_model": "morning_rise_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Sweet orange oil (40%)",
+      "Lemon oil (35%)",
+      "Eucalyptus oil (20%)",
+      "Natural carrier blend (5%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["focus", "citrus", "morning", "energizing"],
+    "rating": 4.5,
+    "reviews_count": 298
+  },
+  {
+    "id": "clarity",
+    "title": "Clarity",
+    "slug": "clarity",
+    "series": "Focus",
+    "scent_composition": ["Green Tea", "Lemongrass"],
+    "description": "Find mental clarity with the zen-like balance of green tea and lemongrass.",
+    "full_description": "Clarity brings together the calm alertness of green tea with the bright, clean scent of lemongrass. This mindful blend helps support focused attention without creating tension. Perfect for meditation, creative work, or any time you need centered, clear thinking.",
+    "variants": [
+      {
+        "id": "clarity-single",
+        "name": "Single Patch",
+        "price": 85,
+        "sku": "LP-CL-1",
+        "inventory": 420
+      },
+      {
+        "id": "clarity-7pack",
+        "name": "Pack of 7",
+        "price": 529,
+        "sku": "LP-CL-7",
+        "inventory": 260
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg",
+      "https://images.pexels.com/photos/6039247/pexels-photo-6039247.jpeg",
+      "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg"
+    ],
+    "glb_model": "clarity_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Green tea extract (45%)",
+      "Lemongrass oil (45%)",
+      "Natural carrier blend (10%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["focus", "zen", "clarity", "mindfulness"],
+    "rating": 4.7,
+    "reviews_count": 201
+  },
+  {
+    "id": "happy-soul",
+    "title": "Happy Soul",
+    "slug": "happy-soul",
+    "series": "Mood",
+    "scent_composition": ["Orange Blossom", "Bergamot", "Vanilla"],
+    "description": "Lift your spirits with the joyful blend of citrus florals and sweet vanilla.",
+    "full_description": "Happy Soul captures the essence of sunshine and joy with its delightful combination of orange blossom, uplifting bergamot, and comforting vanilla. This cheerful blend helps promote a positive mood and emotional balance. The sweet, floral notes create an atmosphere of warmth and optimism.",
+    "variants": [
+      {
+        "id": "happy-soul-single",
+        "name": "Single Patch",
+        "price": 85,
+        "sku": "LP-HS-1",
+        "inventory": 460
+      },
+      {
+        "id": "happy-soul-7pack",
+        "name": "Pack of 7",
+        "price": 529,
+        "sku": "LP-HS-7",
+        "inventory": 290
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/5792471/pexels-photo-5792471.jpeg",
+      "https://images.pexels.com/photos/4498318/pexels-photo-4498318.jpeg",
+      "https://images.pexels.com/photos/3771045/pexels-photo-3771045.jpeg"
+    ],
+    "glb_model": "happy_soul_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Orange blossom absolute (40%)",
+      "Bergamot oil (35%)",
+      "Vanilla extract (20%)",
+      "Natural carrier blend (5%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["mood", "happiness", "uplifting", "floral"],
+    "rating": 4.8,
+    "reviews_count": 276,
+    "featured": true
+  },
+  {
+    "id": "peaceful-mind",
+    "title": "Peaceful Mind",
+    "slug": "peaceful-mind",
+    "series": "Mood",
+    "scent_composition": ["Lavender", "Clary Sage", "Chamomile"],
+    "description": "Find emotional balance with calming lavender, sage, and gentle chamomile.",
+    "full_description": "Peaceful Mind offers a nurturing blend designed to support emotional well-being and inner calm. The harmonious combination of lavender, clary sage, and chamomile helps ease feelings of stress and promotes a sense of centered tranquility. This gentle, herbaceous blend is perfect for moments when you need to reset and find your center.",
+    "variants": [
+      {
+        "id": "peaceful-mind-single",
+        "name": "Single Patch",
+        "price": 85,
+        "sku": "LP-PM-1",
+        "inventory": 410
+      },
+      {
+        "id": "peaceful-mind-7pack",
+        "name": "Pack of 7",
+        "price": 529,
+        "sku": "LP-PM-7",
+        "inventory": 250
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/3771640/pexels-photo-3771640.jpeg",
+      "https://images.pexels.com/photos/5793953/pexels-photo-5793953.jpeg",
+      "https://images.pexels.com/photos/4041392/pexels-photo-4041392.jpeg"
+    ],
+    "glb_model": "peaceful_mind_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Lavender oil (40%)",
+      "Clary sage oil (35%)",
+      "Chamomile extract (20%)",
+      "Natural carrier blend (5%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["mood", "calm", "balance", "wellness"],
+    "rating": 4.6,
+    "reviews_count": 192
+  },
+  {
+    "id": "bloom",
+    "title": "Bloom",
+    "slug": "bloom",
+    "series": "Mood",
+    "scent_composition": ["Rose", "Geranium", "Patchouli"],
+    "description": "Nurture self-love and confidence with luxurious rose and grounding patchouli.",
+    "full_description": "Bloom celebrates the beauty of self-care with an elegant blend of precious rose, balancing geranium, and earthy patchouli. This sophisticated combination helps promote feelings of self-love, confidence, and emotional harmony. The rich, floral aroma creates an atmosphere of indulgence and personal empowerment.",
+    "variants": [
+      {
+        "id": "bloom-single",
+        "name": "Single Patch",
+        "price": 95,
+        "sku": "LP-BL-1",
+        "inventory": 340
+      },
+      {
+        "id": "bloom-7pack",
+        "name": "Pack of 7",
+        "price": 599,
+        "sku": "LP-BL-7",
+        "inventory": 200
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/5726707/pexels-photo-5726707.jpeg",
+      "https://images.pexels.com/photos/6039247/pexels-photo-6039247.jpeg",
+      "https://images.pexels.com/photos/4467687/pexels-photo-4467687.jpeg"
+    ],
+    "glb_model": "bloom_model.glb",
+    "packaging_dimensions": "5cm x 5cm x 0.2cm",
+    "ingredients": [
+      "Rose absolute (45%)",
+      "Geranium oil (30%)",
+      "Patchouli oil (20%)",
+      "Natural carrier blend (5%)",
+      "Biodegradable adhesive film"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "2g",
+    "tags": ["mood", "rose", "self-care", "premium", "luxury"],
+    "rating": 4.9,
+    "reviews_count": 156
+  },
+  {
+    "id": "luna-starter-kit",
+    "title": "LunaStarter Kit",
+    "slug": "luna-starter-kit",
+    "series": "Collection",
+    "scent_composition": ["Multi-Scent Sampler"],
+    "description": "Experience all three series with our curated 3-patch sampler pack.",
+    "full_description": "The LunaStarter Kit is the perfect introduction to the world of LunaPatch. This thoughtfully curated collection includes one patch from each series: Sleep, Focus, and Mood. Discover which scents resonate with your needs and preferences. Each kit includes Deep Sleep (Sleep), Study Mode (Focus), and Happy Soul (Mood), giving you the full LunaPatch experience.",
+    "variants": [
+      {
+        "id": "starter-kit",
+        "name": "3-Patch Sampler",
+        "price": 199,
+        "sku": "LP-SK-3",
+        "inventory": 600
+      }
+    ],
+    "images": [
+      "https://images.pexels.com/photos/4041279/pexels-photo-4041279.jpeg",
+      "https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg",
+      "https://images.pexels.com/photos/5792471/pexels-photo-5792471.jpeg"
+    ],
+    "glb_model": "starter_kit_model.glb",
+    "packaging_dimensions": "12cm x 8cm x 2cm",
+    "ingredients": [
+      "Contains: 1x Deep Sleep, 1x Study Mode, 1x Happy Soul",
+      "See individual product pages for full ingredient lists"
+    ],
+    "safety_notes": "For external use only. Apply to clean, dry skin. Discontinue use if irritation occurs. Keep out of reach of children.",
+    "weight": "6g",
+    "tags": ["starter", "sampler", "gift", "bestseller"],
+    "rating": 4.9,
+    "reviews_count": 523,
+    "featured": true
+  }
+]
