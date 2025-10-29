@@ -85,7 +85,7 @@ export const Account: React.FC = () => {
     <div className="min-h-screen bg-white pt-32 pb-20">
       <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-8">
-          <h1 className="text-4xl font-bold text-[#111217] mb-2">Your LunaPatch Account</h1>
+          <h1 className="text-4xl font-bold text-[#111217] mb-2">Your Serenè Account</h1>
           <p className="text-gray-600">Sign in to manage subscriptions and orders — or create an account to get started.</p>
         </motion.div>
 

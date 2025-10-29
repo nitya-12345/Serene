@@ -49,7 +49,7 @@ export const HowItWorks: React.FC = () => {
     <div className="min-h-screen bg-[#FFF9F2] pt-32 pb-20">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} className="text-center mb-12">
-          <h1 className="text-5xl md:text-6xl font-bold text-[#111217] mb-4">How LunaPatch Works</h1>
+          <h1 className="text-5xl md:text-6xl font-bold text-[#111217] mb-4">How Serenè Works</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             A science-first approach to wearable aromatherapy — simple to use, carefully formulated, and designed for real results.
           </p>
@@ -148,7 +148,7 @@ export const HowItWorks: React.FC = () => {
               { q: 'How long does one patch last?', a: 'Typically 8–12 hours; may vary with activity and skin temperature.' },
               { q: 'Is it safe for sensitive skin?', a: 'Yes — our materials are dermatologically tested. Patch test recommended for very sensitive individuals.' },
               { q: 'Can I wear while sleeping?', a: 'Absolutely — the Sleep series is optimized for overnight use.' },
-              { q: 'Are there drug interactions?', a: 'No — LunaPatch uses essential oils and contains no prescription ingredients.' }
+              { q: 'Are there drug interactions?', a: 'No — Serenè uses essential oils and contains no prescription ingredients.' }
             ].map((faq, i) => (
               <motion.div initial={{ opacity: 0, y: 8 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} key={i} className="bg-white rounded-2xl p-6 shadow-sm">
                 <div className="flex items-start gap-4">

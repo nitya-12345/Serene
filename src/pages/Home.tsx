@@ -39,7 +39,7 @@ export const Home: React.FC = () => {
                 size="lg"
                 onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}
               >
-                Shop LunaPatch
+                Shop Serenè
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
               <Button variant="outline" size="lg" onClick={() => {}}>
@@ -129,7 +129,7 @@ export const Home: React.FC = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold text-[#111217] mb-6">
-              Why Choose LunaPatch?
+              Why Choose Serenè?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Premium quality at accessible prices, crafted with care in India
@@ -182,7 +182,7 @@ export const Home: React.FC = () => {
               {
                 step: '01',
                 title: 'Peel',
-                description: 'Remove the protective backing from your LunaPatch.'
+                description: 'Remove the protective backing from your Patch.'
               },
               {
                 step: '02',

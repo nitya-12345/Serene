@@ -9,7 +9,7 @@ interface SEOHeadProps {
 }
 
 export const SEOHead: React.FC<SEOHeadProps> = ({
-  title = 'LunaPatch - Natural Aromatherapy Patches for Sleep, Focus & Mood',
+  title = 'Serenè - Natural Aromatherapy Patches for Sleep, Focus & Mood',
   description = 'Premium aromatherapy patches to help you sleep deeper, focus sharper, and feel calmer. Handcrafted in India with pure essential oils.',
   image = 'https://images.pexels.com/photos/3683041/pexels-photo-3683041.jpeg',
   url = 'https://lunapatch.com',

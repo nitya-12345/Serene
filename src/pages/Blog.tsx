@@ -10,7 +10,7 @@ export const Blog: React.FC = () => {
       date: "August 10, 2025",
       category: "Science",
       description:
-        "A friendly, evidence-informed explanation of how smell influences mood, memory, and sleep — and how LunaPatch harnesses these effects safely.",
+        "A friendly, evidence-informed explanation of how smell influences mood, memory, and sleep — and how Serenè harnesses these effects safely.",
       image:
         "https://images.unsplash.com/photo-1582719478171-2b6b6a4d77b3?auto=format&fit=crop&w=1500&q=80",
     },
@@ -20,7 +20,7 @@ export const Blog: React.FC = () => {
       date: "September 5, 2025",
       category: "Wellness",
       description:
-        "Discover five natural aromas scientifically shown to improve mood and motivation — and how LunaPatch brings them into daily life.",
+        "Discover five natural aromas scientifically shown to improve mood and motivation — and how Serenè brings them into daily life.",
       image:
         "https://images.unsplash.com/photo-1600185365483-26d7ac2df4e0?auto=format&fit=crop&w=1500&q=80",
     },
@@ -30,15 +30,15 @@ export const Blog: React.FC = () => {
       date: "July 24, 2025",
       category: "Lifestyle",
       description:
-        "Simple, science-backed habits to combine with LunaPatch Sleep Series for deeper rest and easier mornings.",
+        "Simple, science-backed habits to combine with Serenè Sleep Series for deeper rest and easier mornings.",
       image:
         "https://images.unsplash.com/photo-1544698310-3bdfbbac43c2?auto=format&fit=crop&w=1500&q=80",
     },
     {
       id: 4,
-      title: "Behind the Blend — Inside LunaPatch’s Aroma Lab",
+      title: "Behind the Blend — Inside Serenè’s Aroma Lab",
       date: "June 15, 2025",
-      category: "Inside LunaPatch",
+      category: "Inside Serenè",
       description:
         "Peek inside our aroma lab, where neuroscientists and perfumers co-create blends designed to soothe your senses and mind.",
       image:
