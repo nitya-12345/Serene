@@ -39,7 +39,7 @@ export const Home: React.FC = () => {
                 size="lg"
                 onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}
               >
-                Shop Serenè
+                Shop Serené
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Button>
               <Button variant="outline" size="lg" onClick={() => {}}>
@@ -129,7 +129,7 @@ export const Home: React.FC = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold text-[#111217] mb-6">
-              Why Choose Serenè?
+              Why Choose Serené?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Premium quality at accessible prices, crafted with care in India
@@ -219,46 +219,7 @@ export const Home: React.FC = () => {
         </div>
       </section>
 
-      <section id="products" className="py-20 bg-[#FFF9F2]">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <motion.div
-            initial={{ opacity: 0, y: 40 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true }}
-            className="text-center mb-16"
-          >
-            <h2 className="text-4xl md:text-5xl font-bold text-[#111217] mb-6">
-              Featured Products
-            </h2>
-            <p className="text-xl text-gray-600">
-              Discover our most loved patches
-            </p>
-          </motion.div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
-            {featuredProducts.map((product, index) => (
-              <motion.div
-                key={product.id}
-                initial={{ opacity: 0, y: 40 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ delay: index * 0.1 }}
-              >
-                <ProductCard product={product} />
-              </motion.div>
-            ))}
-          </div>
-
-          <div className="text-center">
-            <Link to="/products">
-              <Button variant="primary" size="lg">
-                View All Products
-                <ArrowRight className="ml-2 w-5 h-5" />
-              </Button>
-            </Link>
-          </div>
-        </div>
-      </section>
+                
 
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

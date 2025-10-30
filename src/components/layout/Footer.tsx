@@ -15,7 +15,7 @@ export const Footer: React.FC = () => {
                 <span className="text-white font-bold text-lg">L</span>
               </div>
               <span className="text-2xl font-bold font-['Poppins']">
-                Serenè
+                Serené
               </span>
             </Link>
             <p className="text-gray-400 mb-6 max-w-md">
@@ -170,7 +170,7 @@ export const Footer: React.FC = () => {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm">
-              © {currentYear} Serenè. All rights reserved. Made with care in Indore.
+              © {currentYear} Serené. All rights reserved. Made with care in Indore.
             </p>
             <div className="flex items-center space-x-6 text-sm text-gray-400">
               <span>Accepted at MU20</span>

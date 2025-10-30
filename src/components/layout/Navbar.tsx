@@ -49,7 +49,7 @@ export const Navbar: React.FC = () => {
               <span className="text-white font-bold text-lg">L</span>
             </div>
             <span className="text-2xl font-bold text-[#111217] font-['Poppins']">
-              Serenè
+              Serené
             </span>
           </Link>
 
